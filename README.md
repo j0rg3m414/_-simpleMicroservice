@@ -1,6 +1,5 @@
 <img align="center" padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wE9C?ver=6a45">
 <br >
-<img align="left" padding="20px" src="https://photos.google.com/photo/AF1QipP8y9xuOOvGOmpGtzTOkRgnwu7Q1LpkfyGnSp1C">
 <h1> 
   <a href="https://www.linkedin.com/in/jorge-maia-dev-java/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Jorge Maia</span>
