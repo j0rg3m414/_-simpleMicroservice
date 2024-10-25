@@ -69,9 +69,6 @@ Você também pode contribuir:
 <br />
 <br />
 
-### Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 <div align="center">Criado por <a href="[(https://github.com/j0rg3m414)]"> Jorge Maia</a>.</div>
 
 <img align="center" padding="0" alt="Imagem do footer da pagina contendo uma paisagem de um lago e ao fundo montanhas no que parece ser um nascer do dia" src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1msOOX.img">
